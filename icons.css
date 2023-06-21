@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Sassy+Frass&display=swap');
+
+body{
+    background-color: cornflowerblue;
+}
+.container{
+    height: 320px;
+    width: 320px;
+    margin-left:70px;
+    background-color: aliceblue;
+    float: left;
+    margin-top: 20px;
+    margin-bottom:20px;
+    text-align: center;
+    margin-right:100px;
+
+}
+h3{
+    text-align: center;
+    font-family: ;
+}
+h1{
+    text-align: center;
+    font-style: italic;
+}
+i{
+    font-size: 100px;
+    color: blue;
+}
+p{
+    text-align: center;
+     font-family: 'Sassy Frass', cursive;;
+}
+button{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
