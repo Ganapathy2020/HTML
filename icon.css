@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: aqua;
+}
+.container{
+    background-color: aliceblue;
+    text-align: center;
+    height: 250px;
+    width: 250px;
+    margin-left: 50px;
+    margin-right: 10px;
+    float: left;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+i{
+    font-size: 100px;
+    text-align: center;
+}
